@@ -1,2 +1,2 @@
-# whooping-cough-explorer
+# whooping-cough-causes
 Interactive Whooping Cough Explorer educational website
